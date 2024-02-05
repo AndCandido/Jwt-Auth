@@ -1,0 +1,4 @@
+api:
+  auth:
+    jwt:
+      secretKey: ${SECRET_KEY:bXkgc2VjcmV0IGtleSBmb3Igand043827483ifdisafldjrf9230f0dsjfopja90430n}
